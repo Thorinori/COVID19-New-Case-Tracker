@@ -10,6 +10,7 @@ To run locally:
 
 To run online: 
 1) Go to https://notebooks.azure.com/Thorinori/projects/covid-19-new-case-tracker
+2) Clone the repo
 2) Press "Run on Free Compute" in the top left
 
 Shared Info:
