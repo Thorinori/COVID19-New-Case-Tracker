@@ -4,14 +4,14 @@ Using Plotly, Pandas, and data from https://github.com/CSSEGISandData/COVID-19 t
 
 To run locally:
 1) Install Plotly (https://plot.ly/python/getting-started/ , also follow the Jupyter Notebook support section)
-2) Install Pandas
-3) Install Jupyter
+2) Install Pandas (https://pandas.pydata.org/getting_started.html)
+3) Install Jupyter (https://jupyter.org/install)
 4) Run Jupyter wherever you put Tracker.ipynb
 
 To run online: 
 1) Go to https://notebooks.azure.com/Thorinori/projects/covid-19-new-case-tracker
-2) Clone the repo
-2) Press "Run on Free Compute" in the top left
+2) Clone the Azure Repo 
+2) Press "Run on Free Compute"
 
 Shared Info:
 To generate a map for a timeframe, use generate_map(start, end) where start and end are strings formatted "1/22/20" (mm/dd/yy).
