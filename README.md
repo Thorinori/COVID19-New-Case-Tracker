@@ -14,7 +14,7 @@ To run online:
 2) Press "Run on Free Compute"
 
 Shared Info:
-To generate a map for a timeframe, use generate_map(start, end) where start and end are strings formatted "1/22/20" (mm/dd/yy).
+To generate a map for a timeframe, use generate_new_map(start, end) where start and end are strings formatted "1/22/20" (mm/dd/yy).
 
 If you want to see the total number of cases instead of the new cases within a period of time, set start and end to the same date.
 
